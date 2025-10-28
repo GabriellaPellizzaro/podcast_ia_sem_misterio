@@ -8,7 +8,7 @@ O objetivo é demonstrar como a tecnologia pode ser usada para produzir conteúd
 
 ## 🎧 Descrição do Episódio
 **Título:** *IA Sem Mistério: o futuro já começou*  
-**Duração:** Aproximadamente 13:57 minutos  
+**Duração:** Aproximadamente 04:55 minutos  
 **Tema:** O impacto das inteligências artificiais no presente e no futuro.
 
 Neste episódio, são abordados:
